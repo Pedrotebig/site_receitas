@@ -205,6 +205,11 @@
             background: #feb47b;
             transform: translateX(5px);
         }
+
+       .dropdown-content {
+            position: relative;
+            z-index: +1;
+       }
         
         /* Footer */
         footer {
