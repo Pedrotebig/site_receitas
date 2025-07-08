@@ -227,9 +227,7 @@ nav {
     }
 
 }
-.dropdown-content:hover{
-    transform: translateY(3px);
-}
+
 
 .img {
     /* height: 15%; */
