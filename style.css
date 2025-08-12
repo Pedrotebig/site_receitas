@@ -34,49 +34,7 @@ header {
     text-shadow: 3px 3px 6px rgba(0, 0, 0, 0.3);
 }
 
-/* Search Bar */
-.search-container {
-    max-width: 600px;
-    margin: 0 auto;
-    padding: 0 1rem;
-}
-
-.search-bar {
-    display: flex;
-    background: white;
-    border-radius: 50px;
-    overflow: hidden;
-    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
-    transition: all 0.3s ease;
-}
-
-.search-bar:hover {
-    transform: translateY(-2px);
-    box-shadow: 0 6px 16px rgba(0, 0, 0, 0.15);
-}
-
-.search-bar input {
-    flex: 1;
-    border: none;
-    padding: 1rem 1.5rem;
-    font-size: 1rem;
-    outline: none;
-}
-
-.search-bar button {
-    background: #ff7e5f;
-    color: white;
-    border: none;
-    padding: 0 1.5rem;
-    cursor: pointer;
-    transition: all 0.3s ease;
-}
-
-.search-bar button:hover {
-    background: #feb47b;
-}
-
-/* Navigation */
+    /* Navigation */
 nav {
     background: white;
     padding: 1rem 0;
@@ -230,7 +188,6 @@ nav {
 
 
 .img {
-    /* height: 15%; */
     width: 29%;
     object-fit: cover;
 }
@@ -267,9 +224,3 @@ footer {
         flex-direction: column-reverse;
     }
 }
-
-/* penis 
-:)<====3
-:==3
-:3
-*/
